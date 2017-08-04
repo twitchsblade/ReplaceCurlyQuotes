@@ -20,7 +20,7 @@ class TextformatterReplaceCurlyQuotes extends Textformatter {
 		return array(
 			'title' => 'Replace Curly Quotes/Apostrophes', 
 			'version' => 100,
-			'href' => '',
+			'href' => 'https://processwire.com/talk/topic/16907-textformatterreplacecurlyquotes/',
 			'summary' => "Replaces single and double curly quotes/apostrophes with regular quotes/apostrophes", 
 		); 
 	}
